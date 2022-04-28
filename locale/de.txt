@@ -1,0 +1,81 @@
+#: locale=de
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = 328eco_Cockpit_VR
+
+## Media
+
+### Titel
+panorama_C0318C17_CF23_2B9D_41DF_B30E17FBBA19.label = 328Cockpit_Day_Fullscreen
+panorama_C0D7D1C5_CF63_5CFD_41E9_68EBF70F2E58.label = 328Cockpit_Night_dim
+panorama_DFC9D3B7_CF23_7C9D_41E9_228CF9EFC28F.label = 328Cockpit_Day_Splitscreen
+panorama_F41450BF_E53E_66D6_41A4_95C814018ED9.label = 328Cockpit_Night_bright
+video_E6C3AC76_E8A9_F0A2_41E6_4AB6C80D1117.label = 2-5-7-10-3-3 GTC
+video_E996BDDB_E4EC_4AA6_41DF_20DB6A51BF86.label = 2.5.7.10.3.3 GTC
+video_EA4178A7_E4FF_E6F5_41C0_0945FADE63C0.label = 2-5-7-10-3-3 GTC
+video_EB0FBA09_E4E4_C9A2_41AA_DA0BF867D65F.label = 2-5-7-10-3-1 MFD1 2022-02-07 16-07-26
+video_EB6178D5_E4EC_CAA2_41E1_A5958DA7223F.label = 2-5-7-10-3-2 PFD2 2022-02-07 16-03-54
+
+## Hotspot
+
+### Tooltip
+FlatHotspotPanoramaOverlayArea_E107CF98_C4AB_EE3A_41E6_DEFD2312814E.toolTip = All data and specifications within this mockup are still subject to changes. \
+This mockup does not constitute any guarantee or warranty of any kind.  \
+Data, configurations, performances and visuals may differ from the final product and offer.  \
+This mockup shall not be reproduced or distributed in whole or in part to or by a  \
+third party without written notification and prior approval of its owners.
+FlatHotspotPanoramaOverlayArea_E1113049_C4AB_F21B_4161_E477E4028194.toolTip = All data and specifications within this mockup are still subject to changes. \
+This mockup does not constitute any guarantee or warranty of any kind.  \
+Data, configurations, performances and visuals may differ from the final product and offer.  \
+This mockup shall not be reproduced or distributed in whole or in part to or by a  \
+third party without written notification and prior approval of its owners.
+FlatHotspotPanoramaOverlayArea_E1764C03_C4AB_520E_41E4_7328EC751EE5.toolTip = All data and specifications within this mockup are still subject to changes. \
+This mockup does not constitute any guarantee or warranty of any kind.  \
+Data, configurations, performances and visuals may differ from the final product and offer.  \
+This mockup shall not be reproduced or distributed in whole or in part to or by a  \
+third party without written notification and prior approval of its owners.
+FlatHotspotPanoramaOverlayArea_E754760F_C4A6_DE17_41E5_DA1757F822F4.toolTip = All data and specifications within this mockup are still subject to changes. \
+This mockup does not constitute any guarantee or warranty of any kind.  \
+Data, configurations, performances and visuals may differ from the final product and offer.  \
+This mockup shall not be reproduced or distributed in whole or in part to or by a  \
+third party without written notification and prior approval of its owners.
+HotspotPanoramaOverlayArea_51C529C5_4685_A1C6_41BD_4292C245359A.toolTip = Superior crew comfort and increased  \
+efficiency - cognitive and intuitive \
+
+HotspotPanoramaOverlayArea_51D362EE_4686_63C3_41AF_674B04D61385.toolTip = Sustainable materials
+HotspotPanoramaOverlayArea_534BAD42_4683_A6C2_41BB_09D3A0897CEB.toolTip = Single lever engine control
+HotspotPanoramaOverlayArea_53588E62_468E_A2C3_41BD_854677F9394D.toolTip = Optimised ergonomics
+HotspotPanoramaOverlayArea_57085346_4787_E2C2_41C5_E6B2FA1EF007.toolTip = Toggle Splitscreen
+HotspotPanoramaOverlayArea_57BD6F96_4785_A242_41C6_4D21B22C3F7C.toolTip = Toggle Fullscreen
+HotspotPanoramaOverlayArea_5843D6A2_4685_A242_41C4_8798EE1719B1.toolTip = Fully interchangeable LCD displays
+HotspotPanoramaOverlayArea_5D78C612_4682_6243_41B3_604A87FF8F69.toolTip = Optimised ergonomics
+HotspotPanoramaOverlayArea_5E3B5F3A_4687_A243_4181_18E3E7F7E2C0.toolTip = Newly designed Companion flight deck \
+based on GARMIN 5000
+HotspotPanoramaOverlayArea_6D93B9CB_7831_DD79_41DD_D0D7805094AA.toolTip = Workload optimized avionics
+HotspotPanoramaOverlayArea_6F6A6F68_7832_B527_41BF_3123E751264D.toolTip = Fully interchangeable LCD displays
+HotspotPanoramaOverlayArea_6F6B4F64_7832_B52F_41D1_864AB53BF4D9.toolTip = Newly designed Companion flight deck \
+based on GARMIN 5000
+HotspotPanoramaOverlayArea_6F6B6F65_7832_B529_41AE_9AEC8E8068A5.toolTip = Single lever engine control
+HotspotPanoramaOverlayArea_6F6B8F66_7832_B52B_41D5_5B8F1C8169DD.toolTip = Superior crew comfort and increased  \
+efficiency - cognitive and intuitive \
+
+HotspotPanoramaOverlayArea_6F6BCF66_7832_B52B_41BA_F573D650FD9F.toolTip = Sustainable materials
+HotspotPanoramaOverlayArea_6F6CFF64_7832_B52F_41C5_8DC11C7B5ABC.toolTip = Fully interchangeable LCD displays
+HotspotPanoramaOverlayArea_890698E0_9DED_48A1_41D8_C6BD711DCBB9.toolTip = Dim screens
+HotspotPanoramaOverlayArea_8E64DCF4_9E14_722A_41E2_BD4D75F3CDBE.toolTip = Brighten screens
+HotspotPanoramaOverlayArea_B882C1EF_B529_BA28_41D0_EBC26C79EC3E.toolTip = Dim screens
+HotspotPanoramaOverlayArea_B8922A30_B528_AE39_41C3_A5D659D9344A.toolTip = Brighten screens
+HotspotPanoramaOverlayArea_B89A8A2F_B528_AE27_41DF_96822F0A9151.toolTip = Brighten screens
+HotspotPanoramaOverlayArea_BA1C571C_B52F_67E9_41D3_EF8138B2BB81.toolTip = Dim screens
+HotspotPanoramaOverlayArea_D55AAE2E_C467_2E16_41E6_D96E6BD09877.toolTip = Optimised ergonomics
+HotspotPanoramaOverlayArea_D55BFE2F_C467_2E16_41CB_E592723406F5.toolTip = Workload optimized avionics
+HotspotPanoramaOverlayArea_D87FDB28_C49D_D619_41E7_3D6B6E3BA650.toolTip = All data and specifications within this mockup are still subject to changes. This mockup does not constitute any guarantee or warranty of any kind. Data, configurations, performances and visuals may differ from the final product and offer. This mockup shall not be reproduced or distributed in whole or in part to or by a third party without written notification and prior approval of its owners.
+HotspotPanoramaOverlayArea_E6BC754A_E8A8_30E3_41D8_F306DB843D88.toolTip = Dim screens
+HotspotPanoramaOverlayArea_EB0713BB_C4BE_F67F_41CF_10C75087FFAF.toolTip = All data and specifications within this mockup are still subject to changes. This mockup does not constitute any guarantee or warranty of any kind. Data, configurations, performances and visuals may differ from the final product and offer. This mockup shall not be reproduced or distributed in whole or in part to or by a third party without written notification and prior approval of its owners.
+HotspotPanoramaOverlayArea_EB1032E2_C4BD_F609_41E4_13C45DCFF85E.toolTip = All data and specifications within this mockup are still subject to changes. This mockup does not constitute any guarantee or warranty of any kind. Data, configurations, performances and visuals may differ from the final product and offer. This mockup shall not be reproduced or distributed in whole or in part to or by a third party without written notification and prior approval of its owners.
+HotspotPanoramaOverlayArea_EBC95A61_C4BD_360B_41C6_74F547838C20.toolTip = All data and specifications within this mockup are still subject to changes. This mockup does not constitute any guarantee or warranty of any kind. Data, configurations, performances and visuals may differ from the final product and offer. This mockup shall not be reproduced or distributed in whole or in part to or by a third party without written notification and prior approval of its owners.
+HotspotPanoramaOverlayArea_F7814C82_E506_1EAF_41BD_C57FDA2550DF.toolTip = Brighten screens
